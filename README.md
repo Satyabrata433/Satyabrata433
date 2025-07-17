@@ -29,5 +29,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satyabrata433&show_icons=true&locale=en&layout=compact" alt="satyabrata433" /></p>
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=satyabrata433&show_icons=true&locale=en" alt="satyabrata433" /></p>
-<p> <img align="center" src="https://streak-stats.demolab.com/?user=satyabrata433" alt="satyabrata433" /></p>
+
 
